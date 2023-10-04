@@ -36,25 +36,47 @@
 <h2>⚡ Stats</h2>
 <br>
 <div align="center">
-    <img alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code2tan&show_icons=true
-        &include_all_commits=true&theme=buefy&hide_border=true&hide=HTML&layout=donut&langs_count=8" />
-    <img alt="stats"
-        src="https://github-readme-stats.vercel.app/api?username=code2tan&theme=buefy&show_icons=true" />
+    <picture>
+        <source media="(prefers-color-scheme: dark)"
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=code2tan&theme=nightowl&hide_border=true&hide=HTML&layout=donut" />
+        <source media="(prefers-color-scheme: light)"
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=code2tan&theme=buefy&hide_border=true&hide=HTML&layout=donut" />
+        <img alt="top-langs" src="" />
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)"
+            srcset="https://github-readme-stats.vercel.app/api?username=code2tan&theme=nightowl&hide_border=true&show_icons=true" />
+        <source media="(prefers-color-scheme: light)"
+            srcset="https://github-readme-stats.vercel.app/api?username=code2tan&theme=buefy&hide_border=true&show_icons=true" />
+        <img alt="stats" src="" />
+    </picture>
 </div>
-<p align="center" >
-	<picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/code2tan/code2tan/output-3d-contrib/night.svg" />
-	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/code2tan/code2tan/output-3d-contrib/day.svg" />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/code2tan/code2tan/output-3d-contrib/day.svg" />
-	</picture>
+<p align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/code2tan/code2tan/output-3d-contrib/night.svg" />
+        <source media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/code2tan/code2tan/output-3d-contrib/day.svg" />
+        <img alt="github profile contributions chart" src="" />
+    </picture>
 </p>
 
 <hr />
 <h2>🔺 Repository</h2>
 <br>
 <div align="center">
-    <img align="center"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=code2tan&repo=ac-oj&theme=buefy" />
-    <img align="center"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=code2tan&repo=AsyncStream&theme=buefy" />
+    <picture>
+        <source media="(prefers-color-scheme: dark)"
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=code2tan&repo=AsyncStream&theme=nightowl" />
+        <source media="(prefers-color-scheme: light)"
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=code2tan&repo=AsyncStream&theme=buefy" />
+        <img alt="AsyncStream" src="" />
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)"
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=code2tan&repo=ac-oj&theme=nightowl" />
+        <source media="(prefers-color-scheme: light)"
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=code2tan&repo=ac-oj&theme=buefy" />
+        <img alt="ac-oj" src="" />
+    </picture>
 </div>
