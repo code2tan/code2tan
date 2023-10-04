@@ -1,48 +1,45 @@
 <div align="center">
     <a href="https://git.io/typing-svg"><img
-            src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=8487FF&vCenter=true&width=435&lines=Hello+My+friend;Welcome+to+My+Github"
+            src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=35&pause=1000&color=FF79AE&vCenter=true&width=435&lines=Hello!+Nice+to+see+you;"
             alt="Typing SVG" /></a>
 </div>
-<h3 align="center">A passionate software developer from China 🇨🇳</h3>
-<div>
+<hr />
+<h2>📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎</h2>
+<div align="center">
+    <p style="font-size: 24;font-weight: 600;">A passionate software developer from China 🇨🇳</p>
+</div>
+<div align="left">
     <p>🔭 I’m currently working on <b>China</b></p>
     <p>🌱 I’m currently learning <b>Kafka</b></p>
     <p>💬 Ask me about <b>Java, Python, Golang, MySQL, Redis</b> or anything
         <a href="https://github.com/code2tan/code2tan/issues">here</a>
     </p>
     <p>
-        ⚡ Fun fact **Game like 《War Thunder》or Drone FPV**
+        ⚡ Fun fact <b>Game like 《War Thunder》or Drone FPV</b>
     </p>
 </div>
 <div align="center">
     <a href="mailto:495140477@qq.com">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://www.workingcode.work">
+    <a href="https://www.workingcoder.work">
         <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
     </a>
 </div>
 <hr />
-<h2 align="center">⚒️ Technology Stack ⚒️</h2>
-<div style="font-size: 24;">
-    </br><b>Languages</b></br>
-    <img src="https://skillicons.dev/icons?i=java,python,go,c,js,ts,css,md&theme=light">
-    </br><b>Database</b></br>
-    <img src="https://skillicons.dev/icons?i=mysql,redis,mongodb,sqlite&theme=light">
-    </br><b>Framework</b></br>
-    <img src="https://skillicons.dev/icons?i=spring,pytorch,react&theme=light">
-    </br><b>Middleware</b></br>
-    <img src="https://skillicons.dev/icons?i=rabbitmq,kafka,nginx,prometheus&theme=light">
-    </br><b>Tools</b></br>
-    <img src="https://skillicons.dev/icons?i=git,github,maven,gradle,figma,idea,vscode,vim&theme=light">
-    </br><b>OS and Software</b></br>
-    <img src="https://skillicons.dev/icons?i=linux,postman&theme=light">
+<h2>⚒️ Technology Stack ⚒️</h2>
+<div align="center" style="font-size: 24;">
+    <img src="https://skillicons.dev/icons?i=java,python,go,c,js,ts,css,md,mysql,redis,mongodb,sqlite,spring,pytorch,react,
+        rabbitmq,kafka,nginx,prometheus,git,github,maven,gradle,figma,idea,vscode,vim,linux&theme=dark">
 </div>
 <hr />
-<h2 align="center">⚡ Stats ⚡</h2>
-<div>
+<h2>⚡ Stats ⚡</h2>
+
+<br>
+
+<div align="center">
     <img alt="snake eating my contributions"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=code2tan&hide=HTML" />
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=code2tan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide=HTML&layout=donut" />
     <img alt="snake eating my contributions"
         src="https://github-readme-stats.vercel.app/api?username=code2tan&theme=buefy&show_icons=true" />
 </div>
