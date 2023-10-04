@@ -28,14 +28,8 @@
 </div>
 <hr />
 <h2>⚒️ Technology Stack</h2>
-<div align="center" style="font-size: 24;">
-    <picture>
-        <source media="(prefers-color-scheme: dark)"
-            srcset="https://skillicons.dev/icons?i=java,python,go,c,js,ts,mysql,redis,mongodb,sqlite,spring,react,rabbitmq,kafka,git,github,maven,gradle,figma,idea,linux" />
-        <source media="(prefers-color-scheme: light)"
-            srcset="https://skillicons.dev/icons?i=java,python,go,c,js,ts,mysql,redis,mongodb,sqlite,spring,react,rabbitmq,kafka,git,github,maven,gradle,figma,idea,linux&theme=light" />
-        <img src="">
-    </picture>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=java,python,go,c,js,ts,mysql,redis,mongodb,sqlite,spring,react,rabbitmq,kafka,git,github,maven,gradle,figma,idea,linux">
 </div>
 <hr />
 <h2>⚡ Stats</h2>
