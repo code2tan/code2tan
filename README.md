@@ -5,9 +5,9 @@
 </div>
 <h3 align="center">A passionate software developer from China 🇨🇳</h3>
 <div>
-    <p>🔭 I’m currently working on **China**</p>
-    <p>🌱 I’m currently learning **Kafka**</p>
-    <p>💬 Ask me about Java,Python,Golang,MySQL,Redis... or anything
+    <p>🔭 I’m currently working on <b>China</b></p>
+    <p>🌱 I’m currently learning <b>Kafka</b></p>
+    <p>💬 Ask me about <b>Java, Python, Golang, MySQL, Redis</b> or anything
         <a href="https://github.com/code2tan/code2tan/issues">here</a>
     </p>
     <p>
