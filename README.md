@@ -70,18 +70,22 @@
 <h2>🔺 Repository</h2>
 <br>
 <div align="center">
-    <picture>
-        <source media="(prefers-color-scheme: dark)"
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=code2tan&repo=AsyncStream&theme=nightowl" />
-        <source media="(prefers-color-scheme: light)"
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=code2tan&repo=AsyncStream&theme=buefy" />
-        <img alt="AsyncStream" src="" />
-    </picture>
-    <picture>
-        <source media="(prefers-color-scheme: dark)"
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=code2tan&repo=ac-oj&theme=nightowl" />
-        <source media="(prefers-color-scheme: light)"
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=code2tan&repo=ac-oj&theme=buefy" />
-        <img alt="ac-oj" src="" />
-    </picture>
+    <a href="https://github.com/code2tan/AsyncStream">
+        <picture>
+            <source media="(prefers-color-scheme: dark)"
+                srcset="https://github-readme-stats.vercel.app/api/pin/?username=code2tan&repo=AsyncStream&theme=nightowl" />
+            <source media="(prefers-color-scheme: light)"
+                srcset="https://github-readme-stats.vercel.app/api/pin/?username=code2tan&repo=AsyncStream&theme=buefy" />
+            <img alt="AsyncStream" src="" />
+        </picture>
+    </a>
+    <a href="https://github.com/code2tan/ac-oj">
+        <picture>
+            <source media="(prefers-color-scheme: dark)"
+                srcset="https://github-readme-stats.vercel.app/api/pin/?username=code2tan&repo=ac-oj&theme=nightowl" />
+            <source media="(prefers-color-scheme: light)"
+                srcset="https://github-readme-stats.vercel.app/api/pin/?username=code2tan&repo=ac-oj&theme=buefy" />
+            <img alt="ac-oj" src="" />
+        </picture>
+    </a>
 </div>
