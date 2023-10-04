@@ -31,13 +31,12 @@
 <div align="center" style="font-size: 24;">
     <picture>
         <source media="(prefers-color-scheme: dark)"
-            srcset="https://skillicons.dev/icons?i=java,python,go,c,js,ts,css,md,mysql,redis,mongodb,sqlite,spring,pytorch,react,rabbitmq,kafka,nginx,prometheus,git,github,maven,gradle,figma,idea,vscode,vim,linux" />
+            srcset="https://skillicons.dev/icons?i=java,python,go,c,js,ts,mysql,redis,mongodb,sqlite,spring,react,rabbitmq,kafka,git,github,maven,gradle,figma,idea,linux" />
         <source media="(prefers-color-scheme: light)"
-            srcset="https://skillicons.dev/icons?i=java,python,go,c,js,ts,css,md,mysql,redis,mongodb,sqlite,spring,pytorch,react,rabbitmq,kafka,nginx,prometheus,git,github,maven,gradle,figma,idea,vscode,vim,linux&theme=light" />
+            srcset="https://skillicons.dev/icons?i=java,python,go,c,js,ts,mysql,redis,mongodb,sqlite,spring,react,rabbitmq,kafka,git,github,maven,gradle,figma,idea,linux&theme=light" />
         <img src="">
     </picture>
 </div>
-
 <hr />
 <h2>⚡ Stats</h2>
 <br>
