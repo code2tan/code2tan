@@ -30,15 +30,15 @@
 <h2>⚒️ Technology Stack</h2>
 <div align="center" style="font-size: 24;">
     <img src="https://skillicons.dev/icons?i=java,python,go,c,js,ts,css,md,mysql,redis,mongodb,sqlite,spring,pytorch,react,
-        rabbitmq,kafka,nginx,prometheus,git,github,maven,gradle,figma,idea,vscode,vim,linux&theme=dark">
+        rabbitmq,kafka,nginx,prometheus,git,github,maven,gradle,figma,idea,vscode,vim,linux">
 </div>
 <hr />
 <h2>⚡ Stats</h2>
 <br>
 <div align="center">
-    <img alt="snake eating my contributions" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code2tan&show_icons=true
+    <img alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code2tan&show_icons=true
         &include_all_commits=true&theme=buefy&hide_border=true&hide=HTML&layout=donut&langs_count=8" />
-    <img alt="snake eating my contributions"
+    <img alt="stats"
         src="https://github-readme-stats.vercel.app/api?username=code2tan&theme=buefy&show_icons=true" />
 </div>
 <p align="center" >
