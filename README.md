@@ -27,21 +27,34 @@
     </a>
 </div>
 <hr />
-<h2>⚒️ Technology Stack ⚒️</h2>
+<h2>⚒️ Technology Stack</h2>
 <div align="center" style="font-size: 24;">
     <img src="https://skillicons.dev/icons?i=java,python,go,c,js,ts,css,md,mysql,redis,mongodb,sqlite,spring,pytorch,react,
         rabbitmq,kafka,nginx,prometheus,git,github,maven,gradle,figma,idea,vscode,vim,linux&theme=dark">
 </div>
 <hr />
-<h2>⚡ Stats ⚡</h2>
-
+<h2>⚡ Stats</h2>
 <br>
-
 <div align="center">
-    <img alt="snake eating my contributions"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=code2tan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide=HTML&layout=donut" />
+    <img alt="snake eating my contributions" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code2tan&show_icons=true
+        &include_all_commits=true&theme=buefy&hide_border=true&hide=HTML&layout=donut&langs_count=8" />
     <img alt="snake eating my contributions"
         src="https://github-readme-stats.vercel.app/api?username=code2tan&theme=buefy&show_icons=true" />
 </div>
+<p align="center" >
+	<picture>
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/code2tan/code2tan/output-3d-contrib/night.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/code2tan/code2tan/output-3d-contrib/day.svg" />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/code2tan/code2tan/output-3d-contrib/day.svg" />
+	</picture>
+</p>
 
-![](./profile-3d-contrib/profile-gitblock.svg)
+<hr />
+<h2>🔺 Repository</h2>
+<br>
+<div align="center">
+    <img align="center"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=code2tan&repo=ac-oj&theme=buefy" />
+    <img align="center"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=code2tan&repo=AsyncStream&theme=buefy" />
+</div>
