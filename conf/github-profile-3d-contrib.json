@@ -1,6 +1,6 @@
 [
     {
-        "type": "normal",
+        "type": "block",
         "fileName": "day.svg",
         "backgroundColor": "#ffffff",
         "foregroundColor": "#00000f",
