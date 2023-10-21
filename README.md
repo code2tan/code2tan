@@ -59,7 +59,7 @@
         <img alt="github profile contributions chart" src="" />
     </picture>
 </p>
-
+<!--
 <hr />
 <h2>🔺 Repository</h2>
 <br>
@@ -82,4 +82,4 @@
             <img alt="ac-oj" src="" />
         </picture>
     </a>
-</div>
+</div>-->
