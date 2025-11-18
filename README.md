@@ -10,8 +10,8 @@
 </div>
 <div align="left">
     <p>🔭 I’m currently working on <b>China</b></p>
-    <p>🌱 I’m currently learning <b>Kafka</b></p>
-    <p>💬 Ask me about <b>Java, Python, Golang, MySQL, Redis</b> or anything
+    <p>🌱 I’m currently learning <b>Lang Graph</b></p>
+    <p>💬 Ask me about <b>Java, Python, Lang Graph, LLM ,PostgreSQL, MySQL, Redis</b> or anything
         <a href="https://github.com/code2tan/code2tan/issues">here</a>
     </p>
     <p>
