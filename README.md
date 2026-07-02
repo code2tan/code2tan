@@ -17,9 +17,16 @@
     <p>⚡ Fun fact <b>Game like 《War Thunder》or Drone FPV</b></p>
 </div>
 <div>
+<p>
     <a href="mailto:anglebanghua@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
+</p>
+<p>    
+<a href="https://ghfind.com/u/code2tan">
+        <img src="https://ghfind.com/api/badge/code2tan" alt="GitHub Roast 评分徽章" />
+    </a>
+</p>
 </div>
 <hr />
 <h2>⚒️ Technology Stack</h2>
