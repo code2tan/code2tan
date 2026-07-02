@@ -1,0 +1,47 @@
+name: generate breakout game from github contribution graph
+
+on:
+  # run automatically every 24 hours
+  schedule:
+    - cron: "0 */24 * * *"
+
+  # allows to manually run the job at any time
+  workflow_dispatch:
+
+  # run on every push on the main branch
+  push:
+    branches:
+    - main
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-breakout
+    steps:
+      - uses: actions/checkout@v5
+      - name: Create breakout SVG files
+        uses: cyprieng/github-breakout@v1
+        with:
+          github_username: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Stage generated images outside the worktree
+        run: |
+          mkdir -p /tmp/github-breakout
+          mv output/light.svg /tmp/github-breakout/breakout-light.svg
+          mv output/dark.svg /tmp/github-breakout/breakout-dark.svg
+      - name: Set git identity
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+      - name: Publish SVGs to github-breakout branch
+        run: |
+          git checkout --orphan github-breakout
+          git rm -rf .
+          mkdir -p images
+          mv /tmp/github-breakout/* images/
+          git add images
+          git commit -m "Update breakout SVGs" || echo "Nothing to commit"
+          git push --force origin github-breakout

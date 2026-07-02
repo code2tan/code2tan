@@ -26,9 +26,9 @@
 <div align="center" style="font-size: 24;">
     <picture>
         <source media="(prefers-color-scheme: dark)"
-            srcset="https://skillicons.dev/icons?i=python,java,go,c,js,ts,mysql,redis,spring,react,rabbitmq,kafka,git,github,maven,gradle,figma,idea,linux" />
+            srcset="https://skillicons.dev/icons?i=python,java,go,c,js,ts,mysql,redis,spring,react,rabbitmq,git,figma,linux" />
         <source media="(prefers-color-scheme: light)"
-            srcset="https://skillicons.dev/icons?i=python,java,go,c,js,ts,mysql,redis,spring,react,rabbitmq,kafka,git,github,maven,gradle,figma,idea,linux&theme=light" />
+            srcset="https://skillicons.dev/icons?i=python,java,go,c,js,ts,mysql,redis,spring,react,rabbitmq,git,figma,linux&theme=light" />
         <img alt="technology-stack" src="">
     </picture>
 </div>
@@ -54,9 +54,9 @@
 <p align="center">
     <picture>
         <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/code2tan/code2tan/profile-3d-contrib/night.svg" />
+            srcset="https://raw.githubusercontent.com/code2tan/code2tan/github-breakout/images/breakout-dark.svg" />
         <source media="(prefers-color-scheme: light)"
-            srcset="https://raw.githubusercontent.com/code2tan/code2tan/profile-3d-contrib/day.svg" />
-        <img alt="github profile contributions chart" src="" width="800"/>
+            srcset="https://raw.githubusercontent.com/code2tan/code2tan/github-breakout/images/breakout-light.svg" />
+        <img alt="github breakout game" src="" width="800"/>
     </picture>
 </p>
