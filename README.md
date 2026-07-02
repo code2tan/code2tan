@@ -9,27 +9,28 @@
     <p style="font-size: 24;font-weight: 600;">A passionate software developer from China 🇨🇳</p>
 </div>
 <div align="left">
-    <p>🔭 I’m currently working on <b>China</b></p>
-    <p>🌱 I’m currently learning <b>Lang Graph</b></p>
-    <p>💬 Ask me about <b>Java, Python, Lang Graph, LLM ,PostgreSQL, MySQL, Redis</b> or anything
+    <p>🔭 I’m currently working on <b>production-grade LLM Agent systems &amp; distributed LLM fine-tuning</b></p>
+    <p>🌱 I’m currently learning <b>RL fine-tuning (GRPO / DPO / PPO) &amp; Deep Agent architecture</b></p>
+    <p>💬 Ask me about <b>Java, Python, Golang, LangGraph, MCP, RAG, LLM Fine-tuning</b> or anything
         <a href="https://github.com/code2tan/code2tan/issues">here</a>
     </p>
-    <p>
-        ⚡ Fun fact <b>Game like 《War Thunder》or Drone FPV</b>
-    </p>
+    <p>⚡ Fun fact <b>Game like 《War Thunder》or Drone FPV</b></p>
 </div>
-<div align="center">
-    <a href="mailto:495140477@qq.com">
+<div>
+    <a href="mailto:anglebanghua@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://www.workingcoder.work">
-        <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
     </a>
 </div>
 <hr />
 <h2>⚒️ Technology Stack</h2>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=java,python,go,c,js,ts,mysql,redis,mongodb,sqlite,spring,react,rabbitmq,kafka,git,github,maven,gradle,figma,idea,linux">
+<div align="center" style="font-size: 24;">
+    <picture>
+        <source media="(prefers-color-scheme: dark)"
+            srcset="https://skillicons.dev/icons?i=java,python,go,c,js,ts,mysql,redis,spring,react,rabbitmq,kafka,git,github,maven,gradle,figma,idea,linux" />
+        <source media="(prefers-color-scheme: light)"
+            srcset="https://skillicons.dev/icons?i=java,python,go,c,js,ts,mysql,redis,spring,react,rabbitmq,kafka,git,github,maven,gradle,figma,idea,linux&theme=light" />
+        <img alt="technology-stack" src="" width="800">
+    </picture>
 </div>
 <hr />
 <h2>⚡ Stats</h2>
@@ -37,17 +38,17 @@
 <div align="center">
     <picture>
         <source media="(prefers-color-scheme: dark)"
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=code2tan&theme=nightowl&hide_border=true&hide=HTML&layout=donut" />
+                srcset="https://ghfind.com/api/card/code2tan?theme=dark&qr=1" />
         <source media="(prefers-color-scheme: light)"
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=code2tan&theme=buefy&hide_border=true&hide=HTML&layout=donut" />
-        <img alt="top-langs" src="" />
+                srcset="https://ghfind.com/api/card/code2tan?theme=light&qr=1" />
+        <img alt="top-langs" src="" width="400"/>
     </picture>
     <picture>
         <source media="(prefers-color-scheme: dark)"
-            srcset="https://github-readme-stats.vercel.app/api?username=code2tan&theme=nightowl&hide_border=true&show_icons=true" />
+                srcset="https://ghfind.com/api/card/code2tan?theme=dark&variant=contrib&qr=1" />
         <source media="(prefers-color-scheme: light)"
-            srcset="https://github-readme-stats.vercel.app/api?username=code2tan&theme=buefy&hide_border=true&show_icons=true" />
-        <img alt="stats" src="" />
+                srcset="https://ghfind.com/api/card/code2tan?theme=light&variant=contrib&qr=1" />
+        <img alt="top-langs" src="" width="400"/>
     </picture>
 </div>
 <p align="center">
@@ -56,30 +57,6 @@
             srcset="https://raw.githubusercontent.com/code2tan/code2tan/output-3d-contrib/night.svg" />
         <source media="(prefers-color-scheme: light)"
             srcset="https://raw.githubusercontent.com/code2tan/code2tan/output-3d-contrib/day.svg" />
-        <img alt="github profile contributions chart" src="" />
+        <img alt="github profile contributions chart" src="" width="800"/>
     </picture>
 </p>
-<!--
-<hr />
-<h2>🔺 Repository</h2>
-<br>
-<div align="center">
-    <a href="https://github.com/code2tan/AsyncStream">
-        <picture>
-            <source media="(prefers-color-scheme: dark)"
-                srcset="https://github-readme-stats.vercel.app/api/pin/?username=code2tan&repo=AsyncStream&theme=nightowl" />
-            <source media="(prefers-color-scheme: light)"
-                srcset="https://github-readme-stats.vercel.app/api/pin/?username=code2tan&repo=AsyncStream&theme=buefy" />
-            <img alt="AsyncStream" src="" />
-        </picture>
-    </a>
-    <a href="https://github.com/code2tan/ac-oj">
-        <picture>
-            <source media="(prefers-color-scheme: dark)"
-                srcset="https://github-readme-stats.vercel.app/api/pin/?username=code2tan&repo=ac-oj&theme=nightowl" />
-            <source media="(prefers-color-scheme: light)"
-                srcset="https://github-readme-stats.vercel.app/api/pin/?username=code2tan&repo=ac-oj&theme=buefy" />
-            <img alt="ac-oj" src="" />
-        </picture>
-    </a>
-</div>-->
