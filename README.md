@@ -54,9 +54,9 @@
 <p align="center">
     <picture>
         <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/code2tan/code2tan/output-3d-contrib/night.svg" />
+            srcset="https://raw.githubusercontent.com/code2tan/code2tan/profile-3d-contrib/night.svg" />
         <source media="(prefers-color-scheme: light)"
-            srcset="https://raw.githubusercontent.com/code2tan/code2tan/output-3d-contrib/day.svg" />
+            srcset="https://raw.githubusercontent.com/code2tan/code2tan/profile-3d-contrib/day.svg" />
         <img alt="github profile contributions chart" src="" width="800"/>
     </picture>
 </p>
