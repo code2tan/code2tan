@@ -5,7 +5,7 @@
 </div>
 <hr />
 <h2>📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎</h2>
-<div align="center">
+<div>
     <p style="font-size: 24;font-weight: 600;">A passionate software developer from China 🇨🇳</p>
 </div>
 <div align="left">
@@ -26,9 +26,9 @@
 <div align="center" style="font-size: 24;">
     <picture>
         <source media="(prefers-color-scheme: dark)"
-            srcset="https://skillicons.dev/icons?i=java,python,go,c,js,ts,mysql,redis,spring,react,rabbitmq,kafka,git,github,maven,gradle,figma,idea,linux" />
+            srcset="https://skillicons.dev/icons?i=python,java,go,c,js,ts,mysql,redis,spring,react,rabbitmq,kafka,git,github,maven,gradle,figma,idea,linux" />
         <source media="(prefers-color-scheme: light)"
-            srcset="https://skillicons.dev/icons?i=java,python,go,c,js,ts,mysql,redis,spring,react,rabbitmq,kafka,git,github,maven,gradle,figma,idea,linux&theme=light" />
+            srcset="https://skillicons.dev/icons?i=python,java,go,c,js,ts,mysql,redis,spring,react,rabbitmq,kafka,git,github,maven,gradle,figma,idea,linux&theme=light" />
         <img alt="technology-stack" src="">
     </picture>
 </div>
