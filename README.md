@@ -42,22 +42,6 @@
 <hr />
 <h2>⚡ Stats</h2>
 <br>
-<div align="center">
-    <picture>
-        <source media="(prefers-color-scheme: dark)"
-                srcset="https://ghfind.com/api/card/code2tan?theme=dark&qr=1" />
-        <source media="(prefers-color-scheme: light)"
-                srcset="https://ghfind.com/api/card/code2tan?theme=light&qr=1" />
-        <img alt="top-langs" src="" width="400"/>
-    </picture>
-    <picture>
-        <source media="(prefers-color-scheme: dark)"
-                srcset="https://ghfind.com/api/card/code2tan?theme=dark&variant=contrib&qr=1" />
-        <source media="(prefers-color-scheme: light)"
-                srcset="https://ghfind.com/api/card/code2tan?theme=light&variant=contrib&qr=1" />
-        <img alt="top-langs" src="" width="400"/>
-    </picture>
-</div>
 <p align="center">
     <picture>
         <source media="(prefers-color-scheme: dark)"
